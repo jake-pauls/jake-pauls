@@ -6,7 +6,7 @@
           .@@@, @@@* .@@@,                  <b>Interests:</b> Graphics rendering, low-level programming, games!            
           %@@@ #@@@. %@@@                                 
           @@@( &@@&#%@@@/                   <b>Currently doing a ton of:</b> C++, C#, Go, TypeScript            
-   . . . *@@@,,@@@@@@&,                     <b>I want to do a ton of:</b> Vulkan, Unreal, Rust, Haskell              
+   . . . *@@@,,@@@@@@&,                     <b>I want to do a ton of:</b> Vulkan, Unreal, Rust, Crystal              
    (@@&  %@@& #@@&                                        
    &@@%  @@@( &@@#                          <b>Summer 2021: </b> Working on an MLH Fellowship!              
   ,@@@* /@@@.*@@@,          .**                           
