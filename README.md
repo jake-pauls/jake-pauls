@@ -6,9 +6,8 @@ jake-pauls@github.com
 <b>Interests:</b> Low-level programming, automation, and optimization!            
 
 <b>Currently doing a ton of:</b> C++, C#, TypeScript            
-<b>I want to do a ton of:</b> Erlang/Elixir, Rust, Crystal              
-                        
-<b>Summer 2021: </b> Working on an MLH Fellowship!                           
+<b>I want to do a ton of:</b> Erlang/Elixir, Rust, Crystal                            
+
 <b>Let's get in touch!</b>               
 <a href="https://jakepauls.dev">Portfolio</a> ϟ <a href="https://linkedin.com/in/jake-pauls/">LinkedIn</a> ϟ <a href="mailto:jakepauls99@gmail.com">Email</a>      
 </pre>
