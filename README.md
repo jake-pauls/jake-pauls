@@ -7,7 +7,7 @@ jake-pauls@github.com
 <b>Current:</b> Director @ UBC Esports Association 🚀
 
 <b>Currently doing a ton of:</b> C++ and C#
-<b>I want to do a ton of:</b> Rust! 🦀 (...and Crystal ✨)
+<b>I want to do a ton of:</b> Rust! 🦀 (...or Zig ⚡)
 
 <b>Let's get in touch!</b>
 <a href="https://jakepauls.dev">Portfolio</a> ϟ <a href="https://linkedin.com/in/jake-pauls/">LinkedIn</a> ϟ <a href="mailto:jakepauls99@gmail.com">Email</a>
