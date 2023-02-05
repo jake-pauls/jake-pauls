@@ -3,7 +3,7 @@ jake-pauls@github.com
 ---------------------
 <b>Me:</b> Game developer, software developer, pop culture vulture
 <b>Education:</b> BCIT B. Tech (Games Development) (2023)
-<b>Interests:</b> Graphics, game engines, and UX/UI!
+<b>Interests:</b> Graphics, creative workflows, and UX/UI!
 <b>Current:</b> Research Assistant @ BCIT / Director @ UBC Esports Association 🚀
 
 <b>Currently doing a ton of:</b> C++ and C#
