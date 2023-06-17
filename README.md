@@ -3,7 +3,7 @@ jake-pauls@github.com
 ---------------------
 <b>Me:</b> Core Tech Programmer and Game Developer
 <b>Education:</b> BCIT B. Tech (Games Development) (2023)
-<b>Interests:</b> Graphics, game engines, and creative workflows
+<b>Interests:</b> Graphics, game engines, compilers, and creative workflows
 <b>Current:</b> Systems Programmer Intern @ Inflexion Games
 
 <b>Currently doing a ton of:</b> C++ and Rust 🦀
